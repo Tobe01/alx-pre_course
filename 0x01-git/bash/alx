@@ -1,2 +1,2 @@
 echo '#!/bin/bash' > alx
-echo 'echo "ALX"' >> alx
+echo 'echo "ALX School is so cool!"' >> alx
